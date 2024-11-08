@@ -26,8 +26,7 @@ class spider(object):
                 writer.writerow([
                     'title',
                     'level',
-                    'province',
-                    'star',
+
                     'detailAddress',
                     'shortIntro',
                     'detailUrl',
