@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="264d3260-0259-495d-ae98-1438c8fc69bb" name="更改" comment="">
+<<<<<<< HEAD
       <change beforePath="$PROJECT_DIR$/spider/spiderMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/spiderMain.py" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/moban6724/说明.htm" beforeDir="false" afterPath="$PROJECT_DIR$/moban6724/说明.htm" afterDir="false" />
+>>>>>>> cb5e4abcad382102b2006a67bfca1574198fb5fc
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +29,11 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenDjangoStructureViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+<<<<<<< HEAD
     &quot;git-widget-placeholder&quot;: &quot;123&quot;,
+=======
+    &quot;git-widget-placeholder&quot;: &quot;789&quot;,
+>>>>>>> cb5e4abcad382102b2006a67bfca1574198fb5fc
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -73,8 +81,13 @@
       <option name="presentableId" value="Default" />
       <updated>1731056771219</updated>
       <workItem from="1731056772575" duration="34000" />
+<<<<<<< HEAD
       <workItem from="1731057272067" duration="13000" />
       <workItem from="1731057598902" duration="49000" />
+=======
+      <workItem from="1731057000596" duration="16000" />
+      <workItem from="1731057185640" duration="28000" />
+>>>>>>> cb5e4abcad382102b2006a67bfca1574198fb5fc
     </task>
     <servers />
   </component>

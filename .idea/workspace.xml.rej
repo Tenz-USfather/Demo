@@ -1,0 +1,9 @@
+diff a/.idea/workspace.xml b/.idea/workspace.xml	(rejected hunks)
+@@ -2,6 +2,7 @@
+ <project version="4">
+   <component name="ChangeListManager">
+     <list default="true" id="264d3260-0259-495d-ae98-1438c8fc69bb" name="更改" comment="">
++      <change beforePath="$PROJECT_DIR$/spider/spiderMain.py" beforeDir="false" afterPath="$PROJECT_DIR$/spider/spiderMain.py" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
