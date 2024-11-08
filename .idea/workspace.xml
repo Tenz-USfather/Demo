@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="264d3260-0259-495d-ae98-1438c8fc69bb" name="更改" comment="">
       <change beforePath="$PROJECT_DIR$/moban6724/说明.htm" beforeDir="false" afterPath="$PROJECT_DIR$/moban6724/说明.htm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/我上早把.txt" beforeDir="false" afterPath="$PROJECT_DIR$/我上早把.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,10 +12,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2oYqHdru95ekS7hmBjwojstf5cu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -26,7 +25,7 @@
   "keyToString": {
     "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "789",
+    "git-widget-placeholder": "123",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -74,6 +73,7 @@
       <option name="presentableId" value="Default" />
       <updated>1731056771219</updated>
       <workItem from="1731056772575" duration="34000" />
+      <workItem from="1731057272067" duration="13000" />
     </task>
     <servers />
   </component>
